@@ -583,3 +583,18 @@ section {
   transform: translateY(-6px);
   box-shadow: 0 25px 50px rgba(0,0,0,0.12);
 }
+
+.map-btn {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 8px 16px;
+  background: var(--gold);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.map-btn:hover {
+  background: #a8892f;
+}
